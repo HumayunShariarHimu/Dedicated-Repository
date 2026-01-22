@@ -21,8 +21,3 @@ Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-
 
 # License
 This software is licensed under the MIT License.
-
-# Donate
-If you like this software, consider making a donation to the developer. Thank you!
-- BTC: **18wNeAfPGpJEk6312Hy1WVgNjgnRyp4XPS**
-
