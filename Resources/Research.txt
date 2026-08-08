@@ -1,0 +1,1064 @@
+M. SAIF ISLAM — RESEARCH PUBLICATIONS
+University of California, Davis
+Official Publication Archive:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+Official Patent Archive:
+https://faculty.engineering.ucdavis.edu/islam/publications/patents/
+
+
+==============================
+2026
+==============================
+
+1. AI-augmented photon-trapping spectrometer-on-a-chip on silicon platform with extended near-infrared sensitivity
+Authors: A. Ahamed, H. Myat, A. Rawat, L. N. McPhillips, M. S. Islam
+Journal: Advanced Photonics
+Volume: 8(1)
+Article: 016008
+Year: 2026
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2025
+==============================
+
+2. Food-Energy-Water Nexus with Agrivoltaics Integration in Greenhouses for Sustainable Food Production: A Review
+Authors: Muhammad Kashif, Amrit Kumar Thakur, T. M. Abir, M. Saif Islam, Mohammad Ismail Hossain, Wayesh Qarony, Michael Salvador, Md Shamim Ahamed
+Journal: Energy Nexus
+Article: 100469
+Year: 2025
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+3. Stacked co-packaged Si-Ge-Si photodetectors with >60 GHz bandwidth for near-infrared wavelength-simulation
+Authors: E. P. Devine, T. Yamada, S. Y. Wang, M. S. Islam
+Journal: Discover Electronics
+Volume: 2(1)
+Article: 99
+Year: 2025
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+4. Spectrally Engineered Greenhouse Cool Cover for Energy and Water Efficiency in Diverse Climates
+Authors: Amrit Kumar Thakur, T. M. Abir Ahsan, M. Saif Islam, Md Shamim Ahamed
+Journal: Advanced Energy and Sustainability Research
+Article: 2500217
+Year: 2025
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2024
+==============================
+
+5. Unique Hyperspectral Response Design Enabled by Periodic Surface Textures in Photodiodes
+Authors: Ahasan Ahamed, Amita Rawat, Lisa N. McPhillips, Ahmed S. Mayet, M. Saif Islam
+Journal: ACS Photonics
+Volume: 11(6)
+Pages: 2497-2505
+Year: 2024
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+6. Finite-Difference Time-Domain Simulations of Photon-Trapping Nanohole Arrays for Enhanced Optical Absorption in Ultrahigh-Speed GaAs Photodetectors
+Authors: Ahmed S. Mayet, et al.
+Journal: ACS Applied Nano Materials
+Volume: 7(9)
+Pages: 10037-10045
+Year: 2024
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+7. Design of a metasurface deflector for guided absorption enhancement in a Si PIN photodiode
+Authors: M. Tsubokawa, M. Saif Islam
+Journal: Optics Express
+Volume: 32(12)
+Pages: 21121-21133
+Year: 2024
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2023
+==============================
+
+8. Taming photons to sense fast and faint infrared signals
+Author: M. Saif Islam
+Journal: Nature Photonics
+Volume: 17(7)
+Pages: 554-555
+Year: 2023
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+9. Achieving higher photoabsorption than group III-V semiconductors in ultrafast thin silicon photodetectors with integrated photon-trapping surface structures
+Authors: Wayesh Qarony, Ahmed S. Mayet, Ekaterina Ponizovskaya Devine, Soroush Ghandiparsi, Cesar Bartolo-Perez, Ahasan Ahamed, Amita Rawat, et al.
+Journal: Advanced Photonics Nexus
+Volume: 2(5)
+Article: 056001
+Year: 2023
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+10. Design and Fabrication of High-Efficiency, Low-Power, and Low-Leakage Si-Avalanche Photodiodes for Low-Light Sensing
+Authors: Amita Rawat, Ahasan Ahamed, Cesar Bartolo-Perez, Ahmed S. Mayet, Lisa N. McPhillips, M. Saif Islam
+Journal: ACS Photonics
+Volume: 10(5)
+Pages: 1416-1423
+Year: 2023
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2022
+==============================
+
+11. Materials for ultra-efficient, high-speed optoelectronics
+Authors: Galan Moody, M. Saif Islam
+Journal: MRS Bulletin
+Year: 2022
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+12. Engineering the gain and bandwidth in avalanche photodetectors
+Authors: Cesar Bartolo-Perez, Ahasan Ahamed, Ahmed S. Mayet, Amita Rawat, Lisa McPhillips, Soroush Ghandiparsi, Julien Bec, Gerard Ariño-Estrada, Simon Cherry, Shih-Yuan Wang, Laura Marcu, M. Saif Islam
+Journal: Optics Express
+Volume: 30(10)
+Pages: 16873-16882
+Year: 2022
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+13. Improvement of Schottky Contacts of Gallium Oxide (Ga2O3) Nanowires for UV Applications
+Authors: Badriyah Alhalaili, Ahmad Al-Duweesh, Ileana Nicoleta Popescu, Ruxandra Vidu, Luige Vladareanu, M. Saif Islam
+Journal: Sensors
+Volume: 22(5)
+Article: 2048
+Year: 2022
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2021
+==============================
+
+14. Avalanche photodetectors with photon trapping structures for biomedical imaging applications
+Authors: Cesar Bartolo-Perez, et al.
+Journal: Optics Express
+Volume: 29(12)
+Pages: 19024
+Year: 2021
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+15. Maximizing Absorption in Photon-Trapping Ultrafast Silicon Photodetectors
+Authors: Cesar Bartolo-Perez, Wayesh Qarony, S. Ghandiparsi, A. S. Mayet, A. Ahamed, et al.
+Journal: Advanced Photonics Research
+Article: 2000190
+Year: 2021
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+16. Single Microhole per Pixel in CMOS Image Sensors with Enhanced Optical Sensitivity in Near-Infrared
+Authors: E. P. Devine, W. Qarony, A. Ahamed, A. S. Mayet, S. Ghandiparsi, C. Bartolo-Perez, et al.
+Journal: IEEE Sensors Journal
+Volume: 21(9)
+Page: 10556
+Year: 2021
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+17. Modeling of nanohole silicon PIN/NIP photodetectors: Steady state and transient characteristics
+Authors: Toshishige Yamada, Ekaterina Ponizovskaya Devine, Soroush Ghandiparsi, Cesar Bartolo-Perez, Ahmed S. Mayet, et al.
+Journal: Nanotechnology
+Year: 2021
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+18. Photoelectrochemical (PEC) etching of Ga2O3
+Authors: Badriyah Alhalaili, Ruxandra Vidu, Howard Mao, Kamoun O., M. Saif Islam
+Journal: Ceramics International
+Volume: 47(1)
+Pages: 479-486
+Year: 2021
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2020
+==============================
+
+19. Gallium oxide nanowires for UV detection with enhanced growth and material properties
+Authors: Badriyah Alhalaili, Ryan James Bunk, Howard Mao, Hilal Cansizoglu, Ruxandra Vidu, Jerry Woodall, M. Saif Islam
+Journal: Scientific Reports
+Volume: 10
+Year: 2020
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+20. Towards the fabrication of third-generation solar cells on amorphous, flexible and transparent substrates with well-ordered and disordered Si-nanowires/pillars
+Authors: Elif Peksu, Ozge Guller, Mehmet Parlak, M. Saif Islam, Hakan Karaagac
+Journal: Physica E: Low-dimensional Systems and Nanostructures
+Article: 114382
+Year: 2020
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+21. Comparative Study of Growth Morphologies of Ga2O3 Nanowires on Different Substrates
+Authors: Badriyah Alhalaili, Ruxandra Vidu, Howard Mao, M. Saif Islam
+Journal: Nanomaterials
+Volume: 10(10)
+Article: 1920
+Year: 2020
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+22. Influence of Silver as a Catalyst on the Growth of β-Ga2O3 Nanowires on GaAs
+Authors: Badriyah Alhalaili, Howard Mao, Daniel M. Dryden, Hilal Cansizoglu, Ryan James Bunk, Ruxandra Vidu, Jerry Woodall, M. Saif Islam
+Journal: Materials
+Volume: 13(23)
+Article: 5377
+Year: 2020
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2019
+==============================
+
+23. Photogalvanic Etching of n-GaN for Three-Dimensional Electronics
+Authors: Daniel M. Dryden, Rebecca J. Nikolic, M. Saif Islam
+Journal: Journal of Electronic Materials
+Volume: 48(5)
+Page: 3345
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+24. Dynamics Contributions to the Growth Mechanism of Ga2O3 Thin Film and NWs Enabled by Ag Catalyst
+Authors: Badriyah Alhalaili, Ryan Bunk, Ruxandra Vidu, M. Saif Islam
+Journal: Nanomaterials
+Volume: 9(9)
+Article: 1272
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+25. The Growth of Ga2O3 Nanowires on Silicon for Ultraviolet Photodetector
+Authors: Badriyah Alhalaili, Ruxandra Vidu, M. Saif Islam
+Journal: Sensors
+Volume: 19(23)
+Article: 5301
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+26. Rigorous coupled-wave analysis of absorption enhancement in vertically illuminated silicon photodiodes with photon-trapping hole arrays
+Authors: Jun Gou, Hilal Cansizoglu, Cesar Bartolo-Perez, Soroush Ghandiparsi, Ahmed S. Mayet, et al.
+Journal: Nanophotonics
+Volume: 8(10)
+Pages: 1747-1756
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+27. Dramatically Enhanced Efficiency in Ultra-Fast Silicon MSM Photodiodes Via Light Trapping Structures
+Authors: Hilal Cansizoglu, Ahmed S. Mayet, Soroush Ghandiparsi, Yang Gao, Cesar Bartolo-Perez, et al.
+Journal: IEEE Photonics Technology Letters
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+28. High-Speed High-Efficiency Photon-Trapping Broadband Silicon PIN Photodiodes for Short-Reach Optical Interconnects in Data Centers
+Authors: Soroush Ghandiparsi, Aly F. Elrefaie, Ahmed S. Mayet, T. Landolsi, Cesar Bartolo-Perez, et al.
+Journal: Journal of Lightwave Technology
+Volume: 37(23)
+Pages: 5748-5755
+Year: 2019
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2018
+==============================
+
+29. High aspect ratio micro and nanostructures enabled by photo-electrochemical etching for sensing and energy harvesting applications
+Journal: Applied Nanoscience
+Volume: 8
+Page: 1171
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+30. Surface-illuminated photon-trapping ultra-fast Ge-on-Si photodiodes with broadband high efficiency up to 1700 nm
+Journal: Photonics Research
+Volume: 6(7)
+Page: 734
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+31. A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication—Part I: Enhancing Photon–Material Interactions via Low-Dimensional Structures
+Journal: IEEE Transactions on Electron Devices
+Volume: 65(2)
+Pages: 372-381
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+32. A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication—Part II: Device and VLSI Integration Challenges for Low-Dimensional Structures
+Journal: IEEE Transactions on Electron Devices
+Volume: 65(2)
+Pages: 382-391
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+33. Surface passivation of silicon photonic devices with high surface-to-volume-ratio nanostructures
+Journal: JOSA B
+Volume: 35(5)
+Pages: 1059-1065
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+34. Manufacturing and Electrical Characterization of Al-doped ZnO-Coated Silicon Nanowires
+Journal: Materials Science in Semiconductor Processing
+Volume: 75
+Pages: 124-129
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+35. Bridged oxide nanowire device fabrication using single step metal catalyst free thermal evaporation
+Journal: RSC Advances
+Volume: 8(19)
+Pages: 10294-10301
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+36. Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges
+Journal: Advanced Electronic Materials
+Volume: 4(1)
+Article: 1600501
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+37. Investigation of Non Volatile AlGaN/GaN Flash Memory for High Temperature Operation
+Journal: Journal of Semiconductor Technology and Science
+Volume: 18(1)
+Pages: 100-107
+Year: 2018
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2017
+==============================
+
+38. A High Speed Surface Illuminated Si Photodiode using Microstructured Holes for Absorption Enhancements at 900-1000 nm Wavelength
+Journal: ACS Photonics
+Volume: 4(8)
+Page: 2053
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+39. Photon-trapping microstructures enable high-speed high-efficiency silicon photodiodes
+Journal: Nature Photonics
+Volume: 11(5)
+Pages: 301-308
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+40. Incident light angle dependence of microwalled silicon solar cell efficiency for fracture transfer printing applications
+Journal: physica status solidi (a)
+Volume: 214(3)
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+41. Spontaneous delamination via compressive buckling facilitates large-scale β-Ga2O3 thin film transfer from reusable GaAs substrates
+Journal: physica status solidi (a)
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+42. Pattern induced convex corner undercutting of oriented silicon microridges in potassium hydroxide
+Journal: Microsystem Technologies
+Volume: 23(1)
+Pages: 75-80
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+43. Solar Blind Photodetectors Enabled by Nanotextured β-Ga2O3 Films Grown via Oxidation of GaAs Substrates
+Journal: IEEE Photonics Journal
+Volume: 9(2)
+Pages: 1-7
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+44. An Investigation of Electrical and Dielectric Parameters of Sol-Gel Process Enabled β-Ga2O3 as a Gate Dielectric Material
+Journal: IEEE Transactions on Electron Devices
+Volume: 64(5)
+Pages: 2047-2053
+Year: 2017
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2016
+==============================
+
+45. Organic/inorganic interfaced field-effect transistor properties with a novel organic semiconducting material
+Journal: Philosophical Magazine
+Volume: 96(3)
+Page: 274
+Year: 2016
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2015
+==============================
+
+46. Long Minority Carrier Diffusion Lengths in Bridged Silicon Nanowires
+Journal: Nano Letters
+Volume: 15
+Pages: 523-529
+Year: 2015
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+47. High Purcell Factor Due To Coupling of a Single Emitter to a Dielectric Slot Waveguide
+Journal: Nano Letters
+Volume: 15
+Pages: 464-468
+Year: 2015
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+48. Phenomenological Model of the Growth of Ultrasmooth Silver Thin Films Deposited with a Germanium Nucleation Layer
+Journal: Langmuir
+Volume: 31(28)
+Pages: 7852-7859
+Year: 2015
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+49. Enhanced photocatalytic degradation of harmful dye and phenyl hydrazine chemical sensing using ZnO nanourchins
+Journal: Chemical Engineering Journal
+Volume: 262
+Pages: 588-596
+Year: 2015
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+50. Synthesis of Ga2O3 Nanorods with Ultra-Sharp Tips for High-Performance Field Emission Devices
+Journal: Science of Advanced Materials
+Volume: 7
+Page: 211
+Year: 2015
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2014
+==============================
+
+51. Precision stress localization during mechanical harvesting of vertically oriented semiconductor micro- and nanostructure arrays
+Journal: Applied Physics Letters
+Volume: 104
+Article: 243109
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+52. Nanobridge gate-all-around phototransistors for electro-optical OR gate circuit and frequency doubler applications
+Journal: Applied Physics Letters
+Volume: 104
+Article: 022110
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+53. Integrating Ormosil films onto microstructured semiconductor substrates
+Journal: Acta Materialia
+Volume: 72
+Pages: 159-166
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+54. High-Precision Transfer-Printing and Integration of Vertically Oriented Semiconductor Arrays for Flexible Device Fabrication
+Journal: Nano Research
+Volume: 7(7)
+Page: 998
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+55. Enhanced Field Ionization Enabled by Metal Induced Surface States on Semiconductor Nanotips
+Journal: Advanced Functional Materials
+Volume: 24
+Page: 2224
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+56. 3D-Transistor Array Based on Horizontally Suspended Silicon Nano-bridges Grown via a Bottom-up Technique
+Journal: Advanced Materials
+Volume: 26
+Page: 1929
+Year: 2014
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2013
+==============================
+
+57. Silicon nanowire bridge arrays with dramatically improved yields enabled by gold colloids functionalized with HF acid and poly-L-lysine
+Journal: IEEE Transactions on Nanotechnology
+Volume: 12(6)
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+58. Hierarchical Silver Nanoparticle Micro-Clustering in Poly(methyl methacrylate) Matrix in Spin-Coatable Electrically Conductive Thermoplastics
+Journal: Science of Advanced Materials
+Volume: 5(11)
+Page: 1546
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+59. Seamless integration of an elastomer with electrode matrix and its in-situ conversion into a solid state electrolyte for robust Li-Ion batteries
+Journal: Advanced Functional Materials
+Volume: 23(47)
+Page: 5941
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+60. Heterojunction solar cells with integrated Si and ZnO nanowires and a chalcopyrite thin film
+Journal: Materials Chemistry and Physics
+Volume: 140
+Page: 382
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+61. Fabrication of 3D-silicon micropillars/walls decorated with aluminum-ZnO/ZnO nanowires for optoelectric device applications
+Journal: physica status solidi (a)
+Volume: 210(7)
+Page: 1377
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+62. Electrically Conducting Film of Silver Nanoparticles as Mechanical and Electrical Interfaces for Transfer Printed Micro-and Nano Devices
+Journal: Applied Physics A
+Volume: 111
+Page: 251
+Year: 2013
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2012
+==============================
+
+63. Highly Sensitive Electrolyte-Ion-Semiconductor pH Sensors Enabled by Silicon Nanowires with Al2O3/SiO2 Sensing Membrane
+Journal: Sensors & Actuators: B. Chemical
+Volume: 171-172
+Pages: 238-243
+Year: 2012
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+64. Post-growth in-situ chlorine passivation for suppressing surface-dominant transport in silicon nanowire devices
+Journal: IEEE Transactions on Nanotechnology
+Volume: 11(4)
+Page: 782
+Year: 2012
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+65. Sonochemical Approach for Rapid Growth of Zinc Oxide Nanowalls
+Journal: Applied Physics A
+Volume: 107(3)
+Page: 661
+Year: 2012
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+66. Physical properties and heterojunction device demonstration of aluminum-doped ZnO thin films synthesized at room ambient via sol-gel method
+Journal: Journal of Alloys and Compounds
+Volume: 521
+Page: 155
+Year: 2012
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+67. UV and Oxygen Sensing Properties and Space Charge Limited Transport of Sonochemically Grown ZnO Nanowires
+Journal: Nanoscience and Nanotechnology Letters
+Year: 2012
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2011
+==============================
+
+68. Effect of Precursors on Optical and Structural Properties of ZnO Nanorods Synthesized by Sonochemical Method
+Journal: Journal of the Korean Physical Society
+Volume: 59(3)
+Pages: 2313-2317
+Year: 2011
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+69. Extraction of Doping Concentration and Interface State Density in Silicon Nanowires
+Journal: IEEE Transactions on Nanotechnology
+Volume: 10(5)
+Page: 1004
+Year: 2011
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+70. Nanowire-based devices combining light guiding and photodetection
+Journal: Applied Physics A
+Volume: 105(2)
+Page: 311
+Year: 2011
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+71. Ultralow-voltage field-ionization discharge on whiskered silicon nanowires for gas-sensing applications
+Authors: Ramin Banan Sadeghian, M. Saif Islam
+Journal: Nature Materials
+Volume: 10
+Page: 135
+Year: 2011
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+72. A Perspective on Nanowire Photodetectors: Current Status, Future Challenges and Opportunities
+Journal: IEEE Journal of Selected Topics in Quantum Electronics
+Volume: 17(4)
+Page: 1002
+Year: 2011
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2010
+==============================
+
+73. Harvesting and Transferring Vertical Device Arrays of Single Crystal Semiconductor Micro/Nanopillars to Arbitrary Substrates
+Journal: IEEE Transactions on Electron Devices
+Volume: 57(8)
+Page: 1856
+Year: 2010
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+74. Nanoscale Materials and Devices for Future Communication Networks
+Authors: M. Saif Islam et al.
+Journal: IEEE Communications Magazine
+Year: 2010
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+75. A smooth optical superlens
+Journal: Applied Physics Letters
+Volume: 96
+Article: 043102
+Year: 2010
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2009
+==============================
+
+76. NBTI and hot carrier effect of SOI p-MOSFETs fabricated in strained Si SOI wafer
+Journal: Microelectronics Reliability
+Volume: 49
+Pages: 994-997
+Year: 2009
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+77. Ultra-Smooth Silver Thin Films Deposited with a Germanium Nucleation Layer
+Journal: Nano Letters
+Volume: 9(1)
+Page: 178
+Year: 2009
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+78. Integrated Receiver Architectures for Board-to-Board Free-Space Optical Interconnects
+Journal: Applied Physics A
+Volume: 95
+Page: 1079
+Year: 2009
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+79. Electronics and Photonics Integration on Non-Crystalline Substrates via Nanoheteroepitaxy
+Journal: ECS Transactions
+Volume: 16(41)
+Page: 49
+Year: 2009
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+80. Ensembles of indium phosphide nanowires: physical properties and functional devices integrated on non-single crystal platforms
+Journal: Applied Physics A
+Volume: 95
+Page: 1005
+Year: 2009
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2008
+==============================
+
+81. Metallic LiMo3Se3 Nanowire Film Sensors for Electrical Detection of Metal Ions in Water
+Journal: Langmuir
+Volume: 24
+Pages: 7031-7037
+Year: 2008
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+82. A 14 ps full width at half maximum high-speed photoconductor fabricated with intersecting InP nanowires on an amorphous surface
+Journal: Applied Physics A
+Volume: 91
+Pages: 1-5
+Year: 2008
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+83. Examining the anomalous resistance observed for InN nanowires
+Journal: Journal of Nanoscience and Nanotechnology
+Volume: 8
+Pages: 222-227
+Year: 2008
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+84. Heteroepitaxial growth dynamics of InP nanowires on silicon
+Journal: Journal of Nanophotonics
+Volume: 2
+Year: 2008
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+85. The all-pervading nanosensors
+Journal: International Journal of Nanotechnology
+Volume: 5(4/5)
+Year: 2008
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2007
+==============================
+
+86. Hydrogenated microcrystalline silicon electrodes connected by indium phosphide nanowires
+Journal: Applied Physics Letters
+Volume: 91
+Article: 113116
+Year: 2007
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+87. Ultra-low contact resistance of epitaxially interfaced Si nanowires
+Authors: A. Choudhry et al.
+Journal: Nano Letters
+Volume: 7
+Pages: 1536-1541
+Year: 2007
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+88. Ultra-smooth metal surfaces generated by pressure induced surface deformation of thin metal films
+Journal: Applied Physics Letters
+Year: 2007
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+89. Photoresponses of ZnO nanobridge devices fabricated using a single-step thermal evaporation method
+Journal: Sensors & Actuators: B. Chemical
+Volume: 126
+Page: 73
+Year: 2007
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2006
+==============================
+
+90. Direct formation of catalyst-free ZnO nano-bridges on an etched Si substrate using a thermal evaporation method
+Journal: Nano Letters
+Volume: 6
+Page: 1487
+Year: 2006
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+91. InP nanobridges epitaxially formed between two vertical Si surfaces by metal-catalyzed chemical vapor deposition
+Journal: Applied Physics Letters
+Volume: 89
+Article: 133121
+Year: 2006
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+92. Noise in Si Nanowires
+Journal: IEEE Transactions on Nanotechnology
+Volume: 5(5)
+Page: 523
+Year: 2006
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+93. Surface depletion thickness of p-doped Si nanowires grown using metal-catalysed chemical vapour deposition
+Journal: Nanotechnology
+Volume: 17
+Pages: S1-S6
+Year: 2006
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2005
+==============================
+
+94. Structural characteristics and connection mechanism of gold-catalyzed bridging silicon nanowires
+Journal: Journal of Crystal Growth
+Volume: 280
+Page: 562
+Year: 2005
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+95. Mechanical properties of self-welded silicon nanobridges
+Journal: Applied Physics Letters
+Volume: 87
+Article: 113102
+Year: 2005
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+96. A Novel Interconnection Technique for Manufacturing Nanowire Devices
+Journal: Applied Physics A
+Volume: 80(6)
+Page: 1133
+Year: 2005
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+97. Ultra-smooth Platinum Surfaces for Nanoscale Devices Fabricated Using Chemical Mechanical Polishing
+Journal: Applied Physics A
+Volume: 80(6)
+Pages: 1385-1389
+Year: 2005
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+98. Issues on nano-imprint lithography with a single-layer resist structure
+Journal: Applied Physics A
+Volume: 81
+Pages: 1331-1335
+Year: 2005
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2004
+==============================
+
+99. Ultrahigh-Density Semiconductor Nano-bridges Formed Between Two Semiconductor Surfaces
+Journal: Nanotechnology
+Volume: 15
+Pages: L5-L8
+Year: 2004
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2002
+==============================
+
+100. High Power and Highly Linear Monolithically Integrated Distributed Balanced Photodetectors
+Authors: M. Saif Islam et al.
+Journal: IEEE/OSA Journal of Lightwave Technology
+Volume: 20(2)
+Page: 285
+Year: 2002
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2001
+==============================
+
+101. Velocity-matched distributed Photodetectors and Balanced Photodetectors with p-i-n Photodiodes
+Journal: IEEE Transactions on Microwave Theory and Techniques
+Volume: 49(10)
+Page: 1914
+Year: 2001
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+2000
+==============================
+
+102. Distributed Balanced Photodetectors for RF Photonic Links
+Journal: International Journal of High-Speed Electronics and Systems
+Volume: 10(1)
+Pages: 281-297
+Year: 2000
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+1999
+==============================
+
+103. Distributed Balanced Photodetectors for Broadband Noise Suppression
+Journal: IEEE Transactions on Microwave Theory and Techniques
+Volume: 47(7)
+Page: 1282
+Year: 1999
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+104. Distributed balanced photodetectors for high performance RF photonic links
+Journal: IEEE Photonics Technology Letters
+Volume: 11(4)
+Page: 454
+Year: 1999
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==============================
+1997
+==============================
+
+105. Fabrication of high-speed resonant cavity enhanced Schottky photodiodes
+Journal: IEEE Photonics Technology Letters
+Volume: 9(5)
+Page: 672
+Year: 1997
+Official source:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+
+==================================================
+MAIN OFFICIAL RESOURCES
+==================================================
+
+M. Saif Islam — UC Davis Official Publications:
+https://faculty.engineering.ucdavis.edu/islam/publications/
+
+M. Saif Islam — UC Davis Official Patents:
+https://faculty.engineering.ucdavis.edu/islam/publications/patents/
+
+M. Saif Islam — UC Davis Faculty Profile:
+https://faculty.engineering.ucdavis.edu/islam/
+
+M. Saif Islam — UC Davis Research Group:
+https://faculty.engineering.ucdavis.edu/islam/research-interests-group/
+
+
+==================================================
+IMPORTANT PAPERS TO READ FIRST
+==================================================
+
+1. Photon-trapping microstructures enable high-speed high-efficiency silicon photodiodes
+Nature Photonics, 2017
+
+2. A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication — Part I
+IEEE Transactions on Electron Devices, 2018
+
+3. A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication — Part II
+IEEE Transactions on Electron Devices, 2018
+
+4. Surface-illuminated photon-trapping ultra-fast Ge-on-Si photodiodes with broadband high efficiency up to 1700 nm
+Photonics Research, 2018
+
+5. High-Speed High-Efficiency Photon-Trapping Broadband Silicon PIN Photodiodes for Short-Reach Optical Interconnects in Data Centers
+Journal of Lightwave Technology, 2019
+
+6. Maximizing Absorption in Photon-Trapping Ultrafast Silicon Photodetectors
+Advanced Photonics Research, 2021
+
+7. Engineering the gain and bandwidth in avalanche photodetectors
+Optics Express, 2022
+
+8. Design and Fabrication of High-Efficiency, Low-Power, and Low-Leakage Si-Avalanche Photodiodes for Low-Light Sensing
+ACS Photonics, 2023
+
+9. Achieving higher photoabsorption than group III-V semiconductors in ultrafast thin silicon photodetectors with integrated photon-trapping surface structures
+Advanced Photonics Nexus, 2023
+
+10. Unique Hyperspectral Response Design Enabled by Periodic Surface Textures in Photodiodes
+ACS Photonics, 2024
+
+
+==================================================
+NOTE
+==================================================
+
+The UC Davis page is the authoritative publication archive used
+for this bibliography. It contains publication metadata and,
+for selected papers, direct PDF/full-text links.
+
+Some publications listed by UC Davis are reviews, invited papers,
+editorials, conference/proceedings or other scholarly works rather
+than original experimental research articles.
+
+Official publication archive:
+https://faculty.engineering.ucdavis.edu/islam/publications/
